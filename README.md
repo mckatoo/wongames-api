@@ -1,3 +1,5 @@
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/Won-Games/api)
+
 # React Avançado - Won Games API
 
 This is the API to create the Won Games Store from [React Avançado course](https://reactavancado.com.br/).
